@@ -1,3 +1,5 @@
+package strings
+
 import "strings"
 
 func reverseWords(s string) string {
